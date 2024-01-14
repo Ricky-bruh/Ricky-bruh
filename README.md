@@ -1,7 +1,7 @@
 ![GitHub Banner](https://wallpapercave.com/wp/wp6222547.png)
 
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [Ricky-bruh]()
 

@@ -1,3 +1,5 @@
+![Shadir's GitHub Banner](https://m.media-amazon.com/images/I/61nGOj2g6HL._AC_UF1000,1000_QL80_.jpg)
+
 ### Hi there 👋
 
 <!--

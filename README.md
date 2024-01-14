@@ -1,6 +1,10 @@
 ![GitHub Banner](https://wallpapercave.com/wp/wp6222547.png)
 
-### Hi there 👋
+
+- 🌱 I’m currently learning **WordPress**
+
+- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -19,6 +23,8 @@
 **Ricky-bruh/Ricky-bruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

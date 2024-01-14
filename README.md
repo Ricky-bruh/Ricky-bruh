@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://wallpapercave.com/wp/wp6222547.png)
+![GitHub Banner](https://wallpapercave.com/wp/wp6222547.png)
 
 ### Hi there 👋
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **WordPress**
 
-- 👨‍💻 All of my projects are available at [Ricky-bruh](Ricky-bruh?tab=repositories)
+- 👨‍💻 All of my projects are available at [Ricky-bruh]()
 
 
 <h3 align="left">Languages and Tools:</h3>

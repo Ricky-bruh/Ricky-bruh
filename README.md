@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-Languages and Tools:
-![GitHub Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)

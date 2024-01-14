@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [Ricky-bruh]()
 
+- ⚡ Fun fact **The first computer virus was a Creeper.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

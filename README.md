@@ -4,10 +4,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-bruh&show_icons=true&locale=en&theme=tokyonight)
-
 
 <!--
 **Ricky-bruh/Ricky-bruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

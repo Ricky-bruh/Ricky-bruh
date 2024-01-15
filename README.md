@@ -24,7 +24,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="40" height="40"/> </a>
 
-
+![GitHub Counter](https://visitor-badge.laobi.icu/badge?page_id=Ricky-bruh.Ricky-bruh)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-bruh&show_icons=true&locale=en&theme=tokyonight)

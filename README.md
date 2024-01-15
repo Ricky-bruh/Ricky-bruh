@@ -22,6 +22,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="40" height="40"/> </a>
 
 
 

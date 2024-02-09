@@ -1,6 +1,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-bruh&show_icons=true&locale=en&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -29,7 +29,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ricky-bruh&theme=tokyonight)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

@@ -1,4 +1,4 @@
-# ![GitHub Banner](https://wallpapercave.com/wp/wp6222547.png)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🌱 I’m currently learning **JavaScript**

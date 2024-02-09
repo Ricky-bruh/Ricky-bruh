@@ -30,7 +30,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-bruh&show_icons=true&locale=en&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ricky-bruh&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <!--
 **Ricky-bruh/Ricky-bruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dm+Sans&weight=600&size=40&duration=3000&pause=1000&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Ricky+%F0%9F%98%8E;Have+a+nice+day!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **JavaScript**
+### Languages
+[![Python Badge](https://img.shields.io/badge/Python-0b89a2?logo=python&logoColor=white)](https://python.org) 
+[![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript) 
 
-- 👨‍💻 All of my projects are available at [Ricky-bruh]()
+### Web-stack
+[![HTML Badge](https://img.shields.io/badge/HTML_5-e34f26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 
-- ⚡ Fun fact **Coding can “power up” your brain**
 
 
 <h3 align="left">Connect with me:</h3>

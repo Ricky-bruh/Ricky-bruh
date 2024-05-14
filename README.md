@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dm+Sans&weight=600&size=40&duration=3000&pause=1000&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Ricky+%F0%9F%98%8E;Have+a+nice+day!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-bruh&show_icons=true&locale=en&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ricky-bruh&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -28,8 +27,6 @@
 ![GitHub Counter](https://visitor-badge.laobi.icu/badge?page_id=Ricky-bruh.Ricky-bruh)
 
 
-
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ricky-bruh&theme=tokyonight)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 

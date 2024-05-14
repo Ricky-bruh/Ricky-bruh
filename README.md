@@ -9,6 +9,13 @@
 [![HTML Badge](https://img.shields.io/badge/HTML_5-e34f26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 
+### General
+[![Git Badge](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/Github-121011?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitLab Badge](https://img.shields.io/badge/Gitlab-181717?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-f38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Linux Badge](https://img.shields.io/badge/Linux-be9009?style=flat&logo=linux&logoColor=white)](https://wikipedia.org/wiki/Linux)
 
 
 <h3 align="left">Connect with me:</h3>

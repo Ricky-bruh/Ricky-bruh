@@ -2,6 +2,7 @@
 
 
 ### Languages
+[![Cpp Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://cplusplus.com/) 
 [![Python Badge](https://img.shields.io/badge/Python-0b89a2?logo=python&logoColor=white)](https://python.org) 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript) 
 
